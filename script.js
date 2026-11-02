@@ -4,7 +4,7 @@
    ========================================================== */
 
 // Change this if your API runs on a different host or port.
-const API_BASE_URL = "https://mansik-santulan-score-adn9.onrender.com/";
+const API_BASE_URL = "https://mansik-santulan-score-adn9.onrender.com";
 const REQUEST_TIMEOUT_MS = 20000;
 
 // Score is shown out of 10 on the gauge.
